@@ -1,2 +1,3 @@
 dags/__pycache__/kafka_stream.cpython-312.pyc
 dags/__pycache__/MI_PRIMER_DAG.cpython-312.pyc
+dags/local.py
