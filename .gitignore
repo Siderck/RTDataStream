@@ -1,3 +1,5 @@
 dags/__pycache__/kafka_stream.cpython-312.pyc
 dags/__pycache__/MI_PRIMER_DAG.cpython-312.pyc
 dags/local.py
+logs/scheduler/2024-08-08/kafka_stream.py.log
+logs/dag_processor_manager/dag_processor_manager.log
