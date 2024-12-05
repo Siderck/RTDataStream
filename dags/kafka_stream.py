@@ -30,11 +30,14 @@ def format_data(res):
     data['registered_date'] = res['registered']['date']
     data['phone'] = res['phone']
     data['picture'] = res['picture']['medium']
+    return data
 
 
 def stream_data():
     import json
-
+    res = get_data()
+    res = format_data(res)
+    print(json.dumps(res, indent=3))
 
 
 with DAG('user_automation',
@@ -47,4 +50,4 @@ with DAG('user_automation',
         python_callable=stream_data
     )
 
-stream_data();
+stream_data()
