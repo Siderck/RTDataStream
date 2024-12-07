@@ -1,13 +1,11 @@
 # 🚀 **Proyecto de Ingeniería de Datos: Transmisión de Datos en Tiempo Real**
 
 ## 📖 **Tabla de Contenidos**
-- [📢 Introducción](#📢-introducción)
-- [🛠️ Arquitectura del Sistema](#🛠️-arquitectura-del-sistema)
-- [🎯 Objetivos de Aprendizaje](#🎯-objetivos-de-aprendizaje)
-- [💻 Tecnologías Utilizadas](#💻-tecnologías-utilizadas)
-- [🚀 Cómo Empezar](#🚀-cómo-empezar)
-- [🎥 Video Tutorial](#🎥-video-tutorial)
-
+- [📢 Introducción](#introducción)
+- [🛠️ Arquitectura del Sistema](#arquitectura-del-sistema)
+- [🎯 Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [💻 Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [🚀 Cómo Empezar](#cómo-empezar)
 ---
 
 ## 📢 **Introducción**
